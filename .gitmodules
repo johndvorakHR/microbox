@@ -1,0 +1,6 @@
+[submodule "bixby"]
+	path = bixby
+	url = https://github.com/johndvorakHR/bixby.git
+[submodule "pushover"]
+	path = pushover
+	url = https://github.com/johndvorakHR/pushover.git
