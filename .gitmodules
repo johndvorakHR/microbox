@@ -1,6 +1,9 @@
 [submodule "bixby"]
 	path = bixby
-	url = https://github.com/johndvorakHR/bixby.git
+	url = https://github.com/bixbyjs/bixby
 [submodule "pushover"]
 	path = pushover
 	url = https://github.com/johndvorakHR/pushover.git
+[submodule "bixby-antenna"]
+	path = bixby-antenna
+	url = https://github.com/bixbyjs/bixby-antenna
